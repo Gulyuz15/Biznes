@@ -1,0 +1,12 @@
+.title{
+  font-size: 36px;
+  max-width: 700px;
+  line-height: 43px;
+}
+.kulrang-span{
+  color: #7b6363;
+}
+.cards{
+  border-radius: 25px;
+  box-shadow: 0 5px 15px #00305C1A;
+}
